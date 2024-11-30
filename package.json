@@ -1,0 +1,18 @@
+{
+  "name": "i18n_tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "merge-i18n-to-excel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./libs/merge-i18n-to-excel.js",
+    "build": "node ./libs/generateLangFiles.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.7.2",
+    "xlsx": "^0.18.5"
+  }
+}
