@@ -93,7 +93,7 @@ function generateLanguageFilesFromExcel(excelFilePath, outputDir) {
 
 // 使用示例
 const excelFilePath = './Language_Merge.xlsx'; // Excel 文件路径
-const outputDir = './output'; // 输出文件夹
+const outputDir = './output/' + new Date().getTime(); // 输出文件夹
 
 // 确保输出目录存在
 if (!fs.existsSync(outputDir)) {
