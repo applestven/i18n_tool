@@ -13,3 +13,6 @@ run/
 *.un~
 typings/
 .nyc_output/
+.xlsx
+output/
+locales/

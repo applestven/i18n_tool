@@ -64,10 +64,13 @@ function flattenObject(obj, parentKey = "", result = {}) {
  */
 function mergeLangFilesToExcel() {
     const langDir = path.resolve(__dirname, "..", "./locales"); // 语言文件目录
-    const langFiles = fs.readdirSync(langDir); // 获取目录中的文件列表
+    let langFiles = fs.readdirSync(langDir); // 获取目录中的文件列表
 
     const data = {};
     const languages = [];
+
+    // 去除 langFiles 中的 i18n.ts
+    langFiles = langFiles.filter(file => file !== 'i18n.ts');
 
     // 读取和解析每个语言文件
     for (const file of langFiles) {
