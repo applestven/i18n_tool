@@ -2,8 +2,8 @@ import pandas as pd
 from googletrans import Translator
 print("正在翻译，请稍候...")
 # 加载 Excel 文件
-file_path = 'Language_Merge.xlsx'  # 将此替换为实际文件路径
-output_file = 'Language_Merge_Translated.xlsx'
+file_path = './Language_Merge.xlsx'  # 将此替换为实际文件路径
+output_file = '../Language_Merge_Translated.xlsx'
 df = pd.read_excel(file_path)
 
 # 初始化翻译器

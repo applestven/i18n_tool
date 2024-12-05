@@ -5,8 +5,8 @@
   "main": "merge-i18n-to-excel.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./libs/merge-i18n-to-excel.js",
-    "build": "node ./libs/generateLangFiles.js",
+    "excel": "node ./libs/merge-i18n-to-excel.js",
+    "ts": "node ./libs/generateLangFiles.js",
     "trans": "node ./libs/call_python.js"
   },
   "keywords": [],
