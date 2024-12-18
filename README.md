@@ -26,6 +26,8 @@ npm run ts
   1.  ./locals/en.ts
   2. 安装python环境  pip install 
 
+  ## 失败几率大  可以直接管理员身份执行translate.py文件
+
 ##  将i18Image 下面的图片，根据语言，生成对应的图片设置的config图片
 
 - 前置条件
