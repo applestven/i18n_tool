@@ -1,15 +1,78 @@
 # 目录结构
 
-- **libs**/
-  - catalogue.md
-  - generateDirectoryMarkdown.js
-- **locales**/
-  - en.ts
-  - es.ts
-  - hi.ts
-  - pt.ts
-  - vi.ts
-  - zhCn.ts
-- merge-i18n-to-excel.js
-- package.json
+- **bn**/
+  - btnv2_reg_enable.png
+- **en**/
+  - btnv2_reg_enable.png
 - README.md
+- **项目图片需要翻译原件**/
+  - acting-img.png
+  - acting_img.png
+  - activity1_img.jpg
+  - activity2_img.png
+  - activity_bottom.png
+  - afiliado_botao_Copia.png
+  - afiliado_botao_enable.png
+  - afiliado_detalhado_1.png
+  - afiliado_detalhado_2.png
+  - anniu.png
+  - anniu_1.png
+  - anniu_3.png
+  - banner_img.png
+  - btnv2_exit.png
+  - btnv2_exit_cancel.png
+  - btnv2_photo_enable.png
+  - btnv2_refund_disable.png
+  - btnv2_refund_enable.png
+  - btnv2_reg_enable.png
+  - btnv2_save_disable.png
+  - btnv2_save_enable.png
+  - btnv2_topup_enable.png
+  - canyutiaojian_beijingkuang.png
+  - complete.png
+  - dabiaoti.png
+  - first_recharge_btn.png
+  - first_recharge_top.png
+  - gblogo_fc.png
+  - gblogo_JILI.png
+  - gblogo_sp.png
+  - gg_bg_v2.png
+  - gg_blockchain_v2.png
+  - gg_evo_v2.png
+  - gg_fav_v2.png
+  - gg_jdb_v2.png
+  - gg_lazer_v2.png
+  - gg_pg_v2.png
+  - gg_pp_v2.png
+  - gg_quente_v2.png
+  - gg_slot_v2.png
+  - gg_tada_v2.png
+  - GooglePlaybestapp-right.png
+  - hd2.png
+  - hd3.png
+  - hd4.png
+  - homev2_bottom_login.png
+  - homev2_bottom_reg.png
+  - homev2_bottom_topup.png
+  - homev2_chat_enable.png
+  - homev2_detail_enable.png
+  - homev2_game_more.png
+  - homev2_item_act.png
+  - homev2_item_record.png
+  - homev2_item_service.png
+  - homev2_item_setting.png
+  - homev2_left_login.png
+  - homev2_left_refund.png
+  - homev2_left_topup.png
+  - home_download_text.png
+  - logo_img.png
+  - rainv2_top_title_1.png
+  - rebate_item_claim.png
+  - rebate_top_banner2.png
+  - slotjiqi_beijing.png
+  - tanchuang.png
+  - treasureChestPoster_img.png
+  - vipv2_topleft_text.png
+  - vip_reward_banner.png
+  - vip_top_bg.png
+  - xiaobiaoti.png

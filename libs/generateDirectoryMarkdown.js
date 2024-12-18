@@ -50,7 +50,7 @@ function generateMarkdownForDirectory(directoryPath, outputFile) {
 }
 
 // 使用示例
-const directoryPath = path.join(__dirname, '..'); // 需要生成目录结构的路径
+const directoryPath = path.join(__dirname, './'); // 需要生成目录结构的路径
 const outputFile = path.join(__dirname, './catalogue.md'); // 输出 Markdown 文件路径
 
 generateMarkdownForDirectory(directoryPath, outputFile);

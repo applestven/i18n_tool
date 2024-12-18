@@ -16,3 +16,5 @@ typings/
 .xlsx
 output/
 locales/
+*.png
+*.jpg

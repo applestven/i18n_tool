@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "excel": "node ./libs/merge-i18n-to-excel.js",
     "ts": "node ./libs/generateLangFiles.js",
-    "trans": "node ./libs/call_python.js"
+    "trans": "node ./libs/call_python.js",
+    "md": "node ./libs/generateDirectoryMarkdown.js",
+    "imgConfig": "node ./libs/generateImageConfig.js"
   },
   "keywords": [],
   "author": "",

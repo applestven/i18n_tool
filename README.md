@@ -25,3 +25,12 @@ npm run ts
 - 前置条件
   1.  ./locals/en.ts
   2. 安装python环境  pip install 
+
+##  将i18Image 下面的图片，根据语言，生成对应的图片设置的config图片
+
+- 前置条件
+  1. /i18Image文件 夹下，有各个语言的文件夹 bn  文件夹存放图片
+  2. 图片在各语言中命名规则一致
+``` bash
+npm run imgConfig
+```
